@@ -1,0 +1,80 @@
+
+HTML:(1 point)
+
+(a) What does the acronym HTML stand for?
+
+(b) How do you create a hyperlink in HTML?
+
+(c) What is the purpose of the <head> tag in HTML?
+
+
+
+CSS:(1 point)
+
+(a) What does the acronym CSS stand for?
+
+(b) How do you select an element by its ID in CSS?
+
+(c) What is the purpose of the "box-sizing" property in CSS?
+
+
+
+JavaScript:(1 point)
+
+(a) What is the difference between "==" and "===" operators in JavaScript?
+
+(b) How do you declare a variable in JavaScript?
+
+(c) What is the purpose of the "setTimeout" function in JavaScript?
+
+
+
+Django:(1 point)
+
+(a) What is Django and what is its main purpose?
+
+(b) What is the difference between a view and a template in Django?
+
+(c) What is a model in Django and how is it used?
+
+
+
+Practical (6 points)
+
+Create a webpage that displays a photo gallery with a navigation bar using Bootstrap. The webpage should have the following features:
+
+-The navigation bar should have links to your intro with photo, hobbies, your SOP for nss.
+
+-The webpage should be responsive, so that it displays well on both desktop and mobile devices.
+
+
+You can use HTML and CSS to create the webpage structure and layout, and Bootstrap for the navigation bar and grid layout.
+You can also use JavaScript and a third-party lightbox library such as Fancybox to create the lightbox effect. 
+This project wil:l allow you to practice your skills in using Bootstrap and responsive web design.
+
+
+Submission Instruction ( 5 points )
+
+Create a new repository on GitHub for the project.
+
+Open a terminal and navigate to the directory where you want to store the project.
+
+Initialize a new Git repository using command.
+
+Add all the project files to the Git repository using the command line.
+
+Commit the changes to the repository (altleast 5 commit ).
+
+Push the changes to the remote repository .
+
+
+Verify that the files have been uploaded to the GitHub repository by checking the repository on the GitHub website.
+
+
+Use Youtube/google/bootstrap documentation.
+
+
+
+
+
+
